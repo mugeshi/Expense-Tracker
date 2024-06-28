@@ -46,4 +46,4 @@ const Chart = ({ expenses }) => {
   );
 };
 
-export default Chart; // Export the Chart component as default
+export default Chart; 
